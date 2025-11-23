@@ -16,6 +16,16 @@
 * **Front-end:** React com TypeScript
 * **Banco de Dados:** SQL
 
+## Link para repositórios
+
+[Front-End](https://github.com/leonarddoamaral/pixshield_frontend)
+
+[Micro serviço Denúncia](https://github.com/K-Tadeu/pixshield_backend_denuncias)
+
+[Micro serviço Usuário](https://github.com/K-Tadeu/pixshield_backend_usuario)
+
+[Micro serviço Chave Pix](https://github.com/K-Tadeu/pixshield_backend_chavepix)
+
 ## Cronograma e Entregas
  
 
@@ -53,8 +63,6 @@
 | **RF03** |	O sistema deve permitir a consulta de uma chave PIX por qualquer usuário, sem necessidade de login. |
 | **RF04** |	O Sistema deve permitir somente a criação de uma denuncia se o usuario tiver um cadastro. |
 | **RF05** |  O usuário deve ter acesso a um histórico com todas as denúncias que registrou. |
-| **RF06** |  O Moderador deve ter acesso a um painel para revisar, aprovar (marcar como verificada) ou recusar (marcar como falsa) denúncias pendentes e categorizar o tipo de golpe.
-| **RF07** |  A consulta de chave PIX deve retornar o número de denúncias.
 
 
 ### Requisitos Não funcionais (RNFs)
@@ -75,7 +83,7 @@
 
 [Visualizar o Diagrama do Banco de Dados na pasta](Docs/Diagramas/DiagramaDataBase.png)
 
-[Visualizar o Diagrama do Banco de Dados Interativo (diagrams.net)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20db%20Pix%20Shield.drawio&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%22W171z0s9dX535PrIy8kR%22%3E7Zpbc5s6EIB%2FjWeaB5%2FBYIj96FvStM5l7OQk6UtGBRl0IpAjhC%2F99WcFwoAhidvUdh6Y8YzZ1UrIux8rrXDDGPirc47m3iVzMG3omrNqGMOGruvtUw2%2BpGadaE67nUThcuIkqlammJJfWClVPzciDg4LhoIxKsi8qLRZEGBbFHSIc7Ysms0YLd51jlxcUkxtRMvae%2BIIL9F2TC3Tf8XE9dI7tzTV4qPUWClCDzlsmVMZo4Yx4IyJ5MpfDTCVzkv9kvQ7e6V1MzGOA7FLh1M7QMy0Ft%2BiVt9dPU45%2Fd5tqlEWiEbqB9%2BFEeKEqTmLdeqIcEl8igKQ%2BjMWiKlq0UC2PUKdMVqzSE4kFMh%2BTqW%2Bxzj5BfaIQlMLFNDMhYqzoRUsprKnGpPjEGxu0l%2FX2lJdolXBcIxCkc6GUYrmIfkZz0929BF3SdBnQjBfGS09IvB0jmxpswR05USEn06y7NvUUZgLvMqplK%2FPMfOx4GswUa3NNO4KfN1S8jLDSE8x8nIIbdBHCl13M3YWXbhQAf6NYOulYBPnKUri%2FeXi6hbabiYXl73J49P30eNJCQH45SKOIGfPeMAo46APWMIEoXRLhShxAxApnslu0nUEHqyeUvvEceTI%2FRDCQAJ3HJsN25lmopwiVQy6z2j8%2FHjQEcMI%2FTkjgYidZPbhA24baP%2BYDRPmOgC5lcnwkeZcDFgA00ckDisGaJZYgtPnTCCBfm6Q%2Fm0%2B3ny63odGQWLsyIixL0SMEiIBjJxC0tAtKpL4BAU0rJdIprHEbc0w8VtPuojj2F2pAVy56ruhG93kiiaas2TYxODLv73J4GtvAmNASgUWtatrCejV3Xhcg3lwMHdNXnsDs10CE%2FuI0IxMrSbmUxHTPSAxfLKYPT88R9g3epqlR83m6bRiayMwxA8CulnzMmJ086Sm5Yi0tPQD4jK07B%2B31mN09w158xdM7hlyKnAJceChClasdp1cjo2Leez1yCrh4oBj8svRsHc7qkE5NiidY4PSKYEyxEEU2ATVJfYHS%2By2bhZL7IryybAqgr2h4q9Hu1tVYjubgGt1mb2HrNDZGZzXy%2BxKTvaWFPTyUYwNzyeOHLahpVjP1AXNsaGpKIH3Bs3g%2Bt6PvMnz7exlYWjLjjmfNCuO7%2BItx4aXesPxCSipKHsPnFrKJyW5U96z68no4uoc2mHpketR1nZSqIAPdtBXM3pwRquK7cNC2irvigFE20MLXIlo3HJSJ7djg1NRdh8YHL0Uduy4OC2VwIUec1mA6CjTgveiwMGO8l1mM2Zsrjz2HxZirUomFAlW9CdeEfGQu36UQ0HoEmmY1kmxsE6FAH7vQ17I9ZJi1i2W0n6v1kUhi7iN38r8iR0Ufy5%2BK%2BzpCiEd92bUOaZIkAUuTKMqpKrrjQQ%2BX54V34Aa7S0qkpmqXhkYPc7ROmemnqNX72Ns30cz88O9b2%2BZW1wmM8go3fjkA%2BCW36wNZFJ7mpNVCen6IOBjBwHtql2YUXUQoO8tUVVuw5IVrj4D2MPJoLEzNG8cAlQxsr%2B1zCwhApeMK0rq15mfCpeq8n9fuFS%2BzyyX%2F0HkY54dGIUqsUhcalaOycquy8%2F%2BUkv3mNvkdC%2B8yzb5z7e76Qr77n43LTb%2F3n73ldiAmP2dM9k4Zn%2BKNUb%2FAw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
+[Visualizar o Diagrama do Banco de Dados Interativo (diagrams.net)](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20db%20Pix%20Shield.drawio&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22Page-1%22%20id%3D%22W171z0s9dX535PrIy8kR%22%3E7ZpZc6M4EIB%2FjatmHryFwTj2o49M5nCOtZ1Nsi8pDcigtUCOED7m12%2BDhAFDEmcnNtkqUq4KalpCdH9I3Q0NY%2BhtLjhaupfMxrSha%2FamYYwaOvwZLfgXSbZSctbrSoHDiS1FrVQwJb%2BwEmpKGhIbBzlFwRgVZJkXWsz3sSVyMsQ5W%2BfV5ozmr7pEDi4IphaiRekdsYUrpV1TS%2BVfMXHc5MotTZ3xUKKsBIGLbLbOiIzzhjHkjAl55G2GmEbGS%2Bwi%2B3155uxuYhz74pAOZ5aPmNlZfQ9bA2fzMOX0R6%2BpRlkhGqobvg1CxAlTcxbbxBDBmngU%2BdAazJkvpuqMBm3LJdQeoy0Lo4kEAlmLpDVwGSe%2FQB9RONUCAZzmQvnZ0HIa06inGpPjAHRukrtr7Yku0SanOEaBSGbDKEXLgPyM5xd19BB3iD9gQjBPKa1dIvB0iaxIZw3oRhMRXjLJom0TQ2Eu8CYjUra%2BwMzDgm9BRZ1tJn5X4Osd1V6nGOkJRm4Woa4SIoWusxs79S4cKAe%2Fwdl6wdnEfgylvz99u5rBuZvJt8v%2B5OHxx%2FnD5wICcOci9iBnCzxklHGQ%2B0wyQSjdEyFKHB%2BaFM%2BjbpHpCDxYfSX2iG1HIw8CcAPxnXGsNmqnkokySiRi0H1O4%2BfHhY4YRhgsGfFFbCRzAD8w21D7w2yYMNchtFtpG36ROhdD5sP0EYndigGaNY7AGXAmkEA%2Fd0i%2FmY8Xn67XoVGQGAcyYhwLEaOAiA8jJ5A09A4V0j9%2BDo3OUxgtY9JszUDarR%2BZiOPYXIkCHDnqf0M3evKISskXOaxU%2BPRXfzL82p%2FAGLCkAova1XUE6NXteFyDeXIwD128jgZmuwAm9hChKZlaTcyHIqZ3QmL4ZDVf3C9C7Bl9raOHzebZtCS0ERj8Bw7d7XkpMbr5uaalQlpa%2BglxGXWsv2edh%2FD2O3KXT5jcMWSX4BJg30UlrHTa9eJSNS5m1ftRt4DLCPuhbxFUZ06%2FmTm1zXzmdFb0tdEp8fVO8d2d3StLnOydv7U6eTrCotA9mJvnk6dSTo62JujFBNuCxxOHNtvRko056ii1cmZK8pqjMcPHi9WfeqvzdNHFt%2B2b1TWZbUrCDhsHFge%2F1cy8CzMFFg7F6C2ZzdGYGV7feaE7WczmTytDW3fN5aRZUsezwS4pLqP%2B7LympOKVpSyjOfF2VKyZpPXex%2FlCBS65xPdk9b2ayNMTWZI0nZbIVjFrAiItF60w8BjDWC9bFUPSrToiKu5u2VcQdZX3Q8VCu%2Ff0leFSfGMFh4zLVaWm5WPR0q58B9ILbse2g5OaHJjQZQ7zET1PpWC90LexrWyX6owZWyqL%2FYOF2KraHAoFy9sTb4i4zxw%2FREOB62RrlBTk4sY2afhwv%2FfZRqZX1Ey7xa2kX9FRyncBC7mFX4oXpZ5A3MEv%2BTiJKyPDvbilcEyRICucm0aZS1XXmwj4TB1w7wsKo71HhZyp6pWC0eccbTNq6jl69jrG%2FnU0Mzvcq%2Fq6Ye5xKWeQUrqzyW%2BAW1znhnHctCSbAtJ1xfmNFWfdzHm0XZbiGyXr1C7Je%2F%2BFqjR5k5taXW0%2Bwiso42BoXig3lzFyvL3MrEOf%2Fw8uZZXmY%2BFS%2Bj1ESV4VepinZeZALSwRLjUrVbJy6PZzvKWlV2WYnMTCh4TJ%2Fz3cTXbYV%2BPdpGr1fvHuM76BZvo5uAwc04%2FqjfN%2FAQ%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
 
 ### Diagrama De Navegação
 
@@ -83,11 +91,12 @@
 
 [Vizualizar diagrama de navegacão na pasta](/Docs/Diagramas/diagramaNavegação.png)
 
-### Layout Telas (Apenas Design)
+### Esboço de Layout Telas (Apenas Design)
 
 ![Layout Telas](Docs/Layouts/Layout%20Telas.png)
 
 [Visualizar pasta com Layouts](Docs/Layouts/)
+
 
 
 
